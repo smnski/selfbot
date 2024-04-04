@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "oceanic.js": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
